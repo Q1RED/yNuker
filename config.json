@@ -1,10 +1,10 @@
 {
-    "token": "",
-    "chName": "channel",
-    "everyoneMsg": "https://github.com/yeetdisdude",
-    "roleName": "Role",
-    "vcName": "vc",
+    "token": "MTE1MDU0NjQ4NDM3OTUzNzQwOA.G38qHT.zphN4_EdJVJQai5HfvFFiyFZJdGcB3mPV1DxoE",
+    "chName": "nuked",
+    "everyoneMsg": "nuked by q1",
+    "roleName": "nuked",
+    "vcName": "nuked",
     "ghostpingmsg": "@everyone",
     "catName": "category",
-    "prefix": "."
+    "prefix": "$"
 }
