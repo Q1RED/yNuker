@@ -64,7 +64,7 @@ def banner():
                                    ██║   ██║ ╚███║╚██████╔╝██║ ╚██╗███████╗██║  ██║
                                    ╚═╝   ╚═╝  ╚══╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝     
 '''.encode('utf8'))
-token = config["token"]
+token = config["MTE1MDU0NjQ4NDM3OTUzNzQwOA.G38qHT.zphN4_EdJVJQai5HfvFFiyFZJdGcB3mPV1DxoE"]
 prefix = config["prefix"]
 everyoneMsg = config["everyoneMsg"]
 chName = config["chName"]
